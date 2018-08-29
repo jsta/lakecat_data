@@ -1,3 +1,4 @@
 zips/*.zip
 csvs/*.csv
 spatial/*.zip
+spatial/allBasins.*
