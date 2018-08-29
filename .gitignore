@@ -1,2 +1,3 @@
-zips/Lithology.zip
+zips/*.zip
 csvs/*.csv
+spatial/*.zip
